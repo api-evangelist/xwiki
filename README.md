@@ -64,5 +64,21 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-XWiki is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://xwiki.com/
+XWiki provides an open-source enterprise wiki and knowledge management platform that enables teams to create, collaborate on, and share structured content. The platform offers customizable applications, integrations, and extensions for use cases such as documentation, intranets, knowledge bases, and digital workplaces. XWiki is available as self‑hosted software, cloud services, and enterprise editions, supporting open standards and extensibility through APIs and plugins.
+
+**Areas:** Company · Open-Source · Enterprise · Wiki · Knowledge-Management · Collaboration
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://xwiki.com/)
+- [Documentation](https://help.xwiki.com/)
+- [Pricing](https://xwiki.com/en/pricing/)
+- [Support](https://help.xwiki.com/en)
+- [Blog](https://xwiki.com/en/Blog/)
+- [Terms of service](https://xwiki.com/en/company/legal-notice)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/xwiki/](https://apis.io/providers/xwiki/).
